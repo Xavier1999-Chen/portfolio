@@ -76,7 +76,8 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Xavier1999-Chen/portfolio/blob/main/CV-ChenXingyi.pdf', // Empty fileUrl will hide the `Download Resume` button.
+    
   },
   skills: [
     // 'PHP',
@@ -100,9 +101,9 @@ const CONFIG = {
   experiences: [
     {
       company: 'Taste of Asia',
-      position: 'Position',
+      position: 'AI Facial Recognition System Officer',
       from: 'January 2024',
-      to: 'AI Facial Recognition System Officer',
+      to: 'Present',
       companyLink: 'https://www.tasteofasia.com.hk/',
     },
     {
@@ -150,7 +151,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'nord',
+    defaultTheme: 'winter',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
