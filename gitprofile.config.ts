@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'Xavier1999-Chen', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -57,57 +57,60 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
+    // linkedin: 'ariful-alam',
+    // twitter: 'arif_szn',
+    // mastodon: 'arifszn@mastodon.social',
+    // facebook: '',
+    // instagram: '',
+    // youtube: '', // example: 'pewdiepie'
+    // dribbble: '',
+    // behance: '',
+    // medium: 'arifszn',
+    // dev: 'arifszn',
+    // stackoverflow: '', // example: '1/jeff-atwood'
+    // skype: '',
+    // telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'xavier1999@126.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    // 'PHP',
+    // 'Laravel',
+    // 'JavaScript',
+    // 'React.js',
+    // 'Node.js',
+    // 'Nest.js',
+    // 'MySQL',
+    // 'PostgreSQL',
+    'Python',
+    'C++',
+    'Linux',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    // 'PHPUnit',
+    // 'CSS',
+    // 'Antd',
+    // 'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
+      company: 'Taste of Asia',
       position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      from: 'January 2024',
+      to: 'AI Facial Recognition System Officer',
+      companyLink: 'https://www.tasteofasia.com.hk/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Westlake University CVGL Group',
+      position: 'Research Assistant',
+      from: 'December 2022',
+      to: 'July 2023',
+      companyLink: 'https://www.westlake.edu.cn/faculty/peidong-liu.html',
     },
   ],
   certifications: [
