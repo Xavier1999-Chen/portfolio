@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: '星熠-陈-a4635118a?trk=people-guest_people_search-card',
+    linkedin: '星熠-陈-a4635118a',
     // twitter: 'arif_szn',
     // mastodon: 'arifszn@mastodon.social',
     // facebook: '',
