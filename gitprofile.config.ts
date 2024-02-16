@@ -14,8 +14,8 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
-      // mode: 'manual', // Mode can be: 'automatic' or 'manual'
+      // mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
@@ -26,6 +26,8 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
+        sortBy: 'stars',
+        limit: 8,
         projects: ['Xavier1999-Chen/Realtime-rPPG-Application', 
                    'Xavier1999-Chen/instructor-embedding-fix-mteb-issue', 
                    'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
