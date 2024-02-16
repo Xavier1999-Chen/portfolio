@@ -58,7 +58,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: '星熠-陈-a4635118a',
+    linkedin: 'xychenn',
     // twitter: 'arif_szn',
     // mastodon: 'arifszn@mastodon.social',
     // facebook: '',
