@@ -14,8 +14,8 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      // mode: 'automatic', // Mode can be: 'automatic' or 'manual'
-      mode: 'manual', // Mode can be: 'automatic' or 'manual'
+      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      // mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
@@ -75,7 +75,7 @@ const CONFIG = {
     // skype: '',
     // telegram: '',
     // website: 'https://www.arifszn.com',
-    phone: '',
+    phone: '(+852)56140240',
     email: 'xavier1999@126.com',
   },
   resume: {
@@ -128,16 +128,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'The University of Hong Kong',
+      degree: 'Master of Science in Computer Science',
+      from: '2023',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Tongji University',
+      degree: 'Bachelor of Engineering in Electronics Science and Technology',
+      from: '2018',
+      to: '2022',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
