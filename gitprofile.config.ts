@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    // linkedin: 'ariful-alam',
+    linkedin: '星熠-陈-a4635118a?trk=people-guest_people_search-card',
     // twitter: 'arif_szn',
     // mastodon: 'arifszn@mastodon.social',
     // facebook: '',
@@ -70,7 +70,7 @@ const CONFIG = {
     // stackoverflow: '', // example: '1/jeff-atwood'
     // skype: '',
     // telegram: '',
-    website: 'https://www.arifszn.com',
+    // website: 'https://www.arifszn.com',
     phone: '',
     email: 'xavier1999@126.com',
   },
