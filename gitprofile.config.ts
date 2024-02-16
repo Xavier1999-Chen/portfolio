@@ -27,7 +27,7 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         sortBy: 'stars',
-        exclude: {forks: false,},
+        forks: true,
         projects: ['Xavier1999-Chen/Realtime-rPPG-Application', 
                    'Xavier1999-Chen/instructor-embedding-fix-mteb-issue', 
                    'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
