@@ -29,9 +29,10 @@ const CONFIG = {
         sortBy: 'stars',
         limit: 8,
         projects: ['Xavier1999-Chen/Realtime-rPPG-Application', 
-                   'Xavier1999-Chen/instructor-embedding-fix-mteb-issue', 
-                   'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
-                   'Xavier1999-Chen/PricePredict_FATE'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+                   'Xavier1999-Chen/instructor-embedding-fix-mteb-issue']
+        // , 
+        //            'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
+        //            'Xavier1999-Chen/PricePredict_FATE'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
