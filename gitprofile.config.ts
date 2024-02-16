@@ -27,9 +27,9 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         sortBy: 'stars',
-        // exclude: {forks: false,},
+        exclude: {forks: false,},
         projects: ['Xavier1999-Chen/Realtime-rPPG-Application', 
-                   'Xavier1999-Chen/instructor-embedding-fix-mteb-issue'], 
+                   'Xavier1999-Chen/instructor-embedding-fix-mteb-issue', 
                    'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
                    'Xavier1999-Chen/PricePredict_FATE'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
