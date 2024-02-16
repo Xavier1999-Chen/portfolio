@@ -27,12 +27,11 @@ const CONFIG = {
       manual: {
         // Properties for manually specifying projects
         sortBy: 'stars',
-        limit: 8,
+        exclude: {forks: false,},
         projects: ['Xavier1999-Chen/Realtime-rPPG-Application', 
-                   'Xavier1999-Chen/instructor-embedding-fix-mteb-issue']
-        // , 
-        //            'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
-        //            'Xavier1999-Chen/PricePredict_FATE'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+                   'Xavier1999-Chen/instructor-embedding-fix-mteb-issue'], 
+                   'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
+                   'Xavier1999-Chen/PricePredict_FATE'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -44,7 +43,7 @@ const CONFIG = {
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/Xavier1999-Chen/portfolio/blob/main/pic/vslam_platform.jpg?raw=true',
           link: 'https://example.com',
         },
         {
