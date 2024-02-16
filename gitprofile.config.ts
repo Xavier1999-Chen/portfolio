@@ -77,7 +77,7 @@ const CONFIG = {
     // skype: '',
     // telegram: '',
     // website: 'https://www.arifszn.com',
-    phone: '(+852)56140240',
+    phone: '+852 56140240',
     email: 'xavier1999@126.com',
   },
   resume: {
