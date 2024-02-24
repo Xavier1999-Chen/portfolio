@@ -105,18 +105,25 @@ const CONFIG = {
     // 'Tailwind',
   ],
   experiences: [
-    {
-      company: 'Taste of Asia',
-      position: 'AI Facial Recognition System Officer',
-      from: 'January 2024',
-      to: 'Present',
-      companyLink: 'https://www.tasteofasia.com.hk/',
-    },
+    // {
+    //   company: 'Taste of Asia',
+    //   position: 'AI Facial Recognition System Officer',
+    //   from: 'January 2024',
+    //   to: 'Present',
+    //   companyLink: 'https://www.tasteofasia.com.hk/',
+    // },
     {
       company: 'Westlake University CVGL Group',
       position: 'Research Assistant',
       from: 'December 2022',
       to: 'July 2023',
+      companyLink: 'https://www.westlake.edu.cn/faculty/peidong-liu.html',
+    },
+    {
+      company: 'Tongji University Wriless Communicatin Group',
+      position: 'Research Assistant',
+      from: 'August 2022',
+      to: 'November 2022',
       companyLink: 'https://www.westlake.edu.cn/faculty/peidong-liu.html',
     },
   ],
