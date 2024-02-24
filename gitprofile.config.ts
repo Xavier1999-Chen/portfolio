@@ -105,13 +105,13 @@ const CONFIG = {
     // 'Tailwind',
   ],
   experiences: [
-    // {
-    //   company: 'Taste of Asia',
-    //   position: 'AI Facial Recognition System Officer',
-    //   from: 'January 2024',
-    //   to: 'Present',
-    //   companyLink: 'https://www.tasteofasia.com.hk/',
-    // },
+    {
+      company: 'Taste of Asia',
+      position: 'AI Facial Recognition System Officer',
+      from: 'January 2024',
+      to: 'Present',
+      companyLink: 'https://www.tasteofasia.com.hk/',
+    },
     {
       company: 'Westlake University CVGL Group',
       position: 'Research Assistant',
