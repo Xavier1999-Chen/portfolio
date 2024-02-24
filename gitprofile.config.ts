@@ -58,7 +58,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Xingyi Chen',
     description: '',
     imageURL: '',
   },
