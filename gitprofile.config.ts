@@ -101,6 +101,7 @@ const CONFIG = {
     'Docker',
     'JavaScript',
     'HTML',
+    'ROS/ROS2',
     // 'PHPUnit',
     // 'CSS',
     // 'Antd',
