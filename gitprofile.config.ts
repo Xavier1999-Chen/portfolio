@@ -88,7 +88,6 @@ const CONFIG = {
   skills: [
     // 'PHP',
     // 'Laravel',
-    // 'JavaScript',
     // 'React.js',
     // 'Node.js',
     // 'Nest.js',
@@ -99,6 +98,8 @@ const CONFIG = {
     'Linux',
     'Git',
     'Docker',
+    'JavaScript',
+    'HTML',
     // 'PHPUnit',
     // 'CSS',
     // 'Antd',
