@@ -69,7 +69,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Xingyi Chen',
     description: '',
-    imageURL: '',
+    imageURL: 'https://avatars.githubusercontent.com/u/60979948?v=4',
   },
   social: {
     linkedin: 'xychenn',
@@ -161,20 +161,20 @@ const CONFIG = {
       to: '2022',
     },
   ],
-  // Display articles from your medium or dev account. (Optional)
-  // blog: {
-  //   source: 'dev', // medium | dev
-  //   username: 'arifszn', // to hide blog section, keep it empty
-  //   limit: 3, // How many articles to display. Max is 10.
-  // },
-  // googleAnalytics: {
-  //   id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  // },
-  // // Track visitor interaction and behavior. https://www.hotjar.com
-  // hotjar: {
-  //   id: '',
-  //   snippetVersion: 6,
-  // },
+  Display articles from your medium or dev account. (Optional)
+  blog: {
+    source: 'dev', // medium | dev
+    username: 'arifszn', // to hide blog section, keep it empty
+    limit: 3, // How many articles to display. Max is 10.
+  },
+  googleAnalytics: {
+    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+  },
+  // Track visitor interaction and behavior. https://www.hotjar.com
+  hotjar: {
+    id: '',
+    snippetVersion: 6,
+  },
   themeConfig: {
     defaultTheme: 'winter',
 
