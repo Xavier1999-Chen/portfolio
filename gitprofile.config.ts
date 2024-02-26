@@ -29,8 +29,8 @@ const CONFIG = {
         // sortBy: 'stars',
         // forks: true,
         projects: [
-          // 'Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
-          //          'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
+                   'Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
+                   'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
                    'Xavier1999-Chen/PricePredict_FATE',
                    'Xavier1999-Chen/dynamic-qrcode'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
@@ -161,20 +161,20 @@ const CONFIG = {
       to: '2022',
     },
   ],
-  Display articles from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 3, // How many articles to display. Max is 10.
-  },
-  googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
-  hotjar: {
-    id: '',
-    snippetVersion: 6,
-  },
+  // // Display articles from your medium or dev account. (Optional)
+  // blog: {
+  //   source: 'dev', // medium | dev
+  //   username: 'arifszn', // to hide blog section, keep it empty
+  //   limit: 3, // How many articles to display. Max is 10.
+  // },
+  // googleAnalytics: {
+  //   id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+  // },
+  // // Track visitor interaction and behavior. https://www.hotjar.com
+  // hotjar: {
+  //   id: '',
+  //   snippetVersion: 6,
+  // },
   themeConfig: {
     defaultTheme: 'winter',
 
