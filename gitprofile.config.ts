@@ -69,7 +69,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Xingyi Chen',
     description: '',
-    imageURL: 'https://avatars.githubusercontent.com/u/60979948?v=4',
+    imageURL: '',
   },
   social: {
     linkedin: 'xychenn',
