@@ -125,7 +125,7 @@ const CONFIG = {
       position: 'Research Assistant',
       from: 'August 2022',
       to: 'November 2022',
-      companyLink: 'https://www.westlake.edu.cn/faculty/peidong-liu.html',
+      companyLink: 'https://comm.tongji.edu.cn/c9/94/c6936a182676/page.htm',
     },
   ],
   certifications: [
