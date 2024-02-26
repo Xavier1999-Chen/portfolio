@@ -28,7 +28,8 @@ const CONFIG = {
         // Properties for manually specifying projects
         // sortBy: 'stars',
         // forks: true,
-        projects: ['Xavier1999-Chen/Realtime-rPPG-Application', 
+        projects: [
+                  // 'Xavier1999-Chen/Realtime-rPPG-Application', 
                  //  'Xavier1999-Chen/instructor-embedding-fix-mteb-issue', 
                    'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
                    'Xavier1999-Chen/PricePredict_FATE'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -45,6 +46,14 @@ const CONFIG = {
           imageUrl:
             'https://github.com/Xavier1999-Chen/portfolio/blob/main/pic/vslam_platform.jpg?raw=true',
           link: 'https://hub.docker.com/r/xavier1999/vslam-data-collection-platform',
+        },
+        {
+          title: 'Real-time Heart Rate Recognition by IoT Camera',
+          description:
+            "Detect the user's real-time heart rate by analyzing the color changing frequency in specific facial areas between frames.",
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
         },
         // {
         //   title: 'Project Name',
