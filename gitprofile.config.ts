@@ -82,7 +82,8 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Xavier1999-Chen/portfolio/blob/main/CV-ChenXingyi.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://1drv.ms/b/c/ed1c9dc9347a2cae/EXc_zJZKN19FurePQLPztEoBBM7cwFyAu39pJMagscn9lQ?e=d1fByv'
+      // 'https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Xavier1999-Chen/portfolio/blob/main/CV-ChenXingyi.pdf', // Empty fileUrl will hide the `Download Resume` button.
     
   },
   skills: [
