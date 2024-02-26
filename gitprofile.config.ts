@@ -31,7 +31,7 @@ const CONFIG = {
         projects: [
                    'Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
                    'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
-                   'Xavier1999-Chen/Federal_Learning_LSTM_PricePredict_FATE',
+                   'Xavier1999-Chen/Federal_Learning_LSTM_PricePredict',
                    'Xavier1999-Chen/dynamic-qrcode'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
