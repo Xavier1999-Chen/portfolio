@@ -28,10 +28,7 @@ const CONFIG = {
         // Properties for manually specifying projects
         // sortBy: 'stars',
         // forks: true,
-        projects: [
-                  // 'Xavier1999-Chen/Realtime-rPPG-Application', 
-                 //  'Xavier1999-Chen/instructor-embedding-fix-mteb-issue', 
-                   'Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
+        projects: ['Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
                    'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
                    'Xavier1999-Chen/PricePredict_FATE',
                    'Xavier1999-Chen/dynamic-qrcode'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
