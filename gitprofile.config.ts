@@ -41,8 +41,7 @@ const CONFIG = {
         {
           title: 'Multi-camera-based VSLAM Navigation System',
           description:
-            'Implemented a large-scale scene relocation algorithm based on single-view images and produced a SfM model of a large-scale urban scene.\n
-            Designed and built a data acquisition vehicle equipped with multiple cameras, LIDAR, GPS and INS, with all sensors controlled by the ROS2 system.',
+            'Implemented a large-scale scene relocation algorithm based on single-view images and produced a SfM model of a large-scale urban scene. Designed and built a data acquisition vehicle equipped with multiple cameras, LIDAR, GPS and INS, with all sensors controlled by the ROS2 system.',
           imageUrl:
             'https://github.com/Xavier1999-Chen/portfolio/blob/main/pic/vslam_platform.jpg?raw=true',
           link: 'https://hub.docker.com/r/xavier1999/vslam-data-collection-platform',
