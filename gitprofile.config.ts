@@ -28,8 +28,9 @@ const CONFIG = {
         // Properties for manually specifying projects
         // sortBy: 'stars',
         // forks: true,
-        projects: ['Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
-                   'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
+        projects: [
+          // 'Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
+          //          'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
                    'Xavier1999-Chen/PricePredict_FATE',
                    'Xavier1999-Chen/dynamic-qrcode'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
@@ -131,7 +132,7 @@ const CONFIG = {
       companyLink: 'https://www.westlake.edu.cn/faculty/peidong-liu.html',
     },
     {
-      company: 'Tongji University Wriless Communicatin Group',
+      company: 'Tongji University Wireless Communicatin Group',
       position: 'Research Assistant',
       from: 'August 2022',
       to: 'November 2022',
