@@ -52,7 +52,7 @@ const CONFIG = {
           description:
             "Detect the user's real-time heart rate by analyzing the color changing frequency in specific facial areas between frames.",
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.overleaf.com/project/65703776419f6d00807eb154/file/6574a578eb8df9fe0bb3d7f1',
           link: 'https://github.com/Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
         },
         // {
