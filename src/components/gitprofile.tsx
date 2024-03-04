@@ -74,7 +74,7 @@ const GitProfile = ({ config }: { config: Config }) => {
         const repos = sanitizedConfig.projects.github.manual.projects
           .map((project) => `+repo:${project}+fork:true`)
           .join('');
-        const sortBy = sanitizedConfig.projects.github.manual.sortBy;
+        const sortBy = sanitizedConfig.projects.github.manual.sortBy.map((sortby)=>`${sortby}`);
           
         const url = `https://api.github.com/search/repositories?q=${repos}&sort=${sortBy}&type=Repositories`;
 
