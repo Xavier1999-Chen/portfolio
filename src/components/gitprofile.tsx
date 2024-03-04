@@ -72,10 +72,10 @@ const GitProfile = ({ config }: { config: Config }) => {
           return [];
         }
         const repos = sanitizedConfig.projects.github.manual.projects
-          .map((project) => `+repo:${project}`)
+          .map((project) => `+repo:${project}+fork:true`)
           .join('');
 
-        const url = `https://api.github.com/search/repositories?q=${repos+fork:true}&sort=${sanitizedConfig.projects.github.manual.sortBy}&type=Repositories`;
+        const url = `https://api.github.com/search/repositories?q=${repos}&sort=${sanitizedConfig.projects.github.manual.sortBy}&type=Repositories`;
 
         const repoResponse = await axios.get(url, {
           headers: { 'Content-Type': 'application/vnd.github.v3+json' },
