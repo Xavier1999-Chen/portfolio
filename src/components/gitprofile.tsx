@@ -74,9 +74,8 @@ const GitProfile = ({ config }: { config: Config }) => {
         const repos = sanitizedConfig.projects.github.manual.projects
           .map((project) => `+repo:${project}+fork:true`)
           .join('');
-        const sortBy = sanitizedConfig.projects.github.manual.sortBy.map((sortby)=>`${sortby}`);
           
-        const url = `https://api.github.com/search/repositories?q=${repos}&sort=${sortBy}&type=Repositories`;
+        const url = `https://api.github.com/search/repositories?q=${repos}&sort=${sanitizedConfig.projects.github.manual.sortBy}&type=Repositories`;
 
         const repoResponse = await axios.get(url, {
           headers: { 'Content-Type': 'application/vnd.github.v3+json' },
@@ -90,6 +89,7 @@ const GitProfile = ({ config }: { config: Config }) => {
       sanitizedConfig.github.username,
       sanitizedConfig.projects.github.mode,
       sanitizedConfig.projects.github.manual.projects,
+      sanitizedConfig.projects.github.manual.sortBy,
       sanitizedConfig.projects.github.automatic.sortBy,
       sanitizedConfig.projects.github.automatic.limit,
       sanitizedConfig.projects.github.automatic.exclude.forks,
