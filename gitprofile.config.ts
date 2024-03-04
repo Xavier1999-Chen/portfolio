@@ -26,7 +26,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        sortBy: 'updated',
+        // sortBy: 'updated',
         // forks: true,
         projects: [
                    'Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
