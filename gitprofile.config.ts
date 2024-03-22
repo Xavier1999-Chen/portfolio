@@ -121,7 +121,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'Taste of Asia',
-      position: 'AI Facial Recognition System Officer',
+      position: 'AI Algorihm Developer',
       from: 'January 2024',
       to: 'Present',
       companyLink: 'https://www.tasteofasia.com.hk/',
