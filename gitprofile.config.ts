@@ -31,10 +31,11 @@ const CONFIG = {
         projects: [
                    'Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
                    'Xavier1999-Chen/RetinaNet-Pytorch',
-                   'Xavier1999-Chen/dynamic-qrcode-UI',
+                   // 'Xavier1999-Chen/dynamic-qrcode-UI',
                    'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
                    'Xavier1999-Chen/Federal-Learning-LSTM-PricePredict',
-                   'Xavier1999-Chen/dynamic-qrcode'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+                   // 'Xavier1999-Chen/dynamic-qrcode'
+        ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -122,8 +123,8 @@ const CONFIG = {
     {
       company: 'Taste of Asia',
       position: 'AI Algorihm Developer',
-      from: 'January 2024',
-      to: 'Present',
+      from: 'October 2023',
+      to: 'February 2024',
       companyLink: 'https://www.tasteofasia.com.hk/',
     },
     {
