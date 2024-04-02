@@ -34,6 +34,7 @@ const CONFIG = {
                    // 'Xavier1999-Chen/dynamic-qrcode-UI',
                    'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
                    'Xavier1999-Chen/Federal-Learning-LSTM-PricePredict',
+                   'Xavier1999-Chen/Taste-of-Asia-Projects'
                    // 'Xavier1999-Chen/dynamic-qrcode'
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
