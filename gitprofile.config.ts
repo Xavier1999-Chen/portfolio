@@ -60,7 +60,7 @@ const CONFIG = {
           link: 'https://github.com/Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
         },
         {
-          title: 'Project Name',
+          title: 'MiaoMiao LLM Chatbot',
           description:
             'A large language model chatbot based on ERNIE 3.5. By utilizing prompt engineering, the chatbot behaves as a kitten that is chatting with you on WeChat. Relying on the Internet search engine, the answers are real-time.',
           imageUrl:
