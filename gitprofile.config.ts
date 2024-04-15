@@ -34,8 +34,8 @@ const CONFIG = {
                    // 'Xavier1999-Chen/dynamic-qrcode-UI',
                    'Xavier1999-Chen/Finacial-Fraud-Scenario-Identification',
                    'Xavier1999-Chen/Federal-Learning-LSTM-PricePredict',
-                   'Xavier1999-Chen/Taste-of-Asia-Projects'
-                   // 'Xavier1999-Chen/dynamic-qrcode'
+                   'Xavier1999-Chen/Taste-of-Asia-Projects',
+                   'Xavier1999-Chen/Phi-2-multiple-choice-QA'
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
@@ -59,14 +59,14 @@ const CONFIG = {
             'https://github.com/Xavier1999-Chen/portfolio/blob/main/pic/UI.png?raw=true',
           link: 'https://github.com/Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
         },
-        // {
-        //   title: 'Project Name',
-        //   description:
-        //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-        //   imageUrl:
-        //     'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-        //   link: 'https://example.com',
-        // },
+        {
+          title: 'Project Name',
+          description:
+            'A large language model chatbot based on ERNIE 3.5. By utilizing prompt engineering, the chatbot behaves as a kitten that is chatting with you on WeChat. Relying on the Internet search engine, the answers are real-time.',
+          imageUrl:
+            'https://github.com/Xavier1999-Chen/portfolio/blob/main/pic/MiaoMiaoChatBot.png?raw=true',
+          link: 'https://hjxsk.vercel.app/',
+        },
       ],
     },
   },
