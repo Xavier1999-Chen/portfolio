@@ -60,12 +60,20 @@ const CONFIG = {
           link: 'https://github.com/Xavier1999-Chen/Real-time-Heart-Rate-Recognition-by-IoT-Camera',
         },
         {
-          title: 'MiaoMiao LLM Chatbot',
+          title: 'SANDWICH Mental Support Chatbot',
           description:
-            'A large language model chatbot based on ERNIE 3.5. By utilizing prompt engineering, the chatbot behaves as a kitten that is chatting with you on WeChat. Relying on the Internet search engine, the answers are real-time.',
+            'A mental support chatbot that utilizes a sandwich architecture, where a language model acts as a messenger between users. This unique architecture allows SANDWICH to take full advantage of LLM technology and anonymously share empathic experiences between users. By incorporating these capabilities, SANDWICH aims to mitigate the issues of harassment and the scarcity of volunteers commonly found in current chat applications.',
           imageUrl:
-            'https://github.com/Xavier1999-Chen/portfolio/blob/main/pic/MiaoMiaoChatBot.png?raw=true',
+            'https://github.com/Xavier1999-Chen/portfolio/blob/main/pic/SANDWICH%20Mental%20Support%20Chatbot.png?raw=true',
           link: 'https://hjxsk.vercel.app/',
+        },
+        {
+          title: 'TAB AI Healthcare Platform',
+          description:
+            'A mental health support platform that provides users with therapist matching and 24/7 professional AI online mental health counseling.',
+          imageUrl:
+            'https://github.com/Xavier1999-Chen/portfolio/blob/main/pic/TAB%20AI%20Healthcare%20Platform.png?raw=true',
+          link: 'https://www.tabhealth.ai/',
         },
       ],
     },
@@ -124,10 +132,17 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'AIxHealthcare',
+      position: 'R&D Intern',
+      from: 'June 2025',
+      to: 'Present',
+      companyLink: 'https://aiqicha.baidu.com/company_detail_53194863410710',
+    },
+    {
       company: 'Taste of Asia',
-      position: 'AI Algorithm Developer',
-      from: 'October 2023',
-      to: 'February 2024',
+      position: 'Associate Project Manager',
+      from: 'January 2024',
+      to: 'May 2025',
       companyLink: 'https://www.tasteofasia.com.hk/',
     },
     {
@@ -143,6 +158,13 @@ const CONFIG = {
       from: 'August 2022',
       to: 'November 2022',
       companyLink: 'https://comm.tongji.edu.cn/c9/94/c6936a182676/page.htm',
+    },
+    {
+      company: 'ZF Asia Pacific Technical Center',
+      position: 'Algorithm Intern',
+      from: 'August 2022',
+      to: 'November 2022',
+      companyLink: 'https://www.zf.com/',
     },
   ],
   // certifications: [
