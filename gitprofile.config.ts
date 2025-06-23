@@ -104,7 +104,7 @@ const CONFIG = {
   resume: {
     fileUrl:
       // 'https://1drv.ms/b/c/ed1c9dc9347a2cae/EXc_zJZKN19FurePQLPztEoBBM7cwFyAu39pJMagscn9lQ?e=d1fByv'
-      'https://1drv.ms/b/c/ed1c9dc9347a2cae/EYf4kKSi5elDmtDDbCroQKQBkPPmWXMMa9w-y6LgaKwelg?e=H0NK2X'
+      // 'https://1drv.ms/b/c/ed1c9dc9347a2cae/EYf4kKSi5elDmtDDbCroQKQBkPPmWXMMa9w-y6LgaKwelg?e=H0NK2X'
       // 'https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Xavier1999-Chen/portfolio/blob/main/CV-ChenXingyi.pdf', // Empty fileUrl will hide the `Download Resume` button.
     
   },
@@ -117,14 +117,16 @@ const CONFIG = {
     // 'MySQL',
     // 'PostgreSQL',
     'Python',
-    'Prompt Engineering',
     'C++',
-    'Linux',
+    'Large Model Post/Pre-training',
+    'ROS/ROS2',
+    'Redis',
     'Git',
     'Docker',
-    'JavaScript',
-    'HTML',
-    'ROS/ROS2',
+    'Kubernetes',
+    'Firebase',
+    'Web Development'
+    'Scrum Management',
     // 'PHPUnit',
     // 'CSS',
     // 'Antd',
@@ -162,8 +164,8 @@ const CONFIG = {
     {
       company: 'ZF Asia Pacific Technical Center',
       position: 'Algorithm Intern',
-      from: 'August 2022',
-      to: 'November 2022',
+      from: 'March 2022',
+      to: 'June 2022',
       companyLink: 'https://www.zf.com/',
     },
   ],
